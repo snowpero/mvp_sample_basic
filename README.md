@@ -1,2 +1,3 @@
-# mvp_sample_basic
-MVP Sample
+# MVP Basic Sample
+ - ButterKnife
+ - Retrofit + OkHttpClient
